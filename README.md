@@ -1,34 +1,36 @@
-# XYZ React.js Project
+# Next+React.js Project
 
-This repository contains the code for the XYZ project built using React.js.
+This project is built using Next.js and React.js. It serves as a boilerplate for building scalable web applications with server-side rendering capabilities.
 
 ## Features
-- Component-based architecture
-- Virtual DOM for efficient rendering
-- Unidirectional data flow
+- Server-side rendering
+- Static site generation
+- API routes
+- Customizable components
 
-## Installation
-To install the project dependencies, run:
+## Getting Started
+
+To get started, clone the repository and install the dependencies:
 
 ```bash
+git clone https://github.com/kevalgcodiste/xyz.git
+cd xyz
 npm install
 ```
 
-## Usage
-To start the development server, run:
+Run the development server:
 
 ```bash
-npm start
+npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-## Build
-To create a production build, run:
-
-```bash
-npm run build
-```
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Learn More
-To learn more about React.js, check out the [React documentation](https://reactjs.org/).
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
